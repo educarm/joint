@@ -1,0 +1,30 @@
+{
+  "name": "joint",
+  "version": "0.9.2",
+  "authors": [
+    "educarm"
+  ],
+  "main": [
+    "dist/joint.min.js",
+	"dist/joint.min..css"
+
+  ],
+  "description": "libreria joint",
+  "keywords": [
+    "joint"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "resolutions:":{
+  }
+}
